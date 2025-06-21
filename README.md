@@ -132,13 +132,7 @@ SARIMA metrics:
   Accuracy: 89.86051135090649%
 </pre>
 
-## Dashboard
 
-A [PowerBI](https://app.powerbi.com/) dashboard using a smaller subset of US retail sales data has also been developed:  
-
-![Retail-Power-BI-Dashboard](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/blob/main/dashboard/PowerBI_retail-dashboard.png)
-
-The data file (in CSV format) is placed in [data folder.](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/tree/main/dashboard/data)
 
 ## 🚀 Thanks
 
